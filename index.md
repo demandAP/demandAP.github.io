@@ -5,7 +5,8 @@ This is a working group to explore research in which quantities are an important
 ## Schedule and Logistics
 - Meeting time: 3:30pm EST Fridays
 - Format: 1 hour, seminar style; no questions in the first 5 minutes
-- Detailed Schedule: [Spring 2025](2025S.md)
+- Detailed Schedule: [Fall 2025](2025F.md)
 
 ## Past Sessions
+- [Spring 2025](2025S.md)
 - [Fall 2024](2024F.md)
