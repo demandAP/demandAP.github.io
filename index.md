@@ -3,7 +3,7 @@
 This is a working group to explore research in which quantities are an important object either empirically or theoretically.
 
 ## Schedule and Logistics
-- Meeting time: 3:30pm EST Fridays
+- Meeting time: 10:30AM EST Fridays
 - Format: 1 hour, seminar style; no questions in the first 5 minutes
 - Detailed Schedule: [Spring 2026](2026S.md)
 
