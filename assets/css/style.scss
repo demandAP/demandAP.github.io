@@ -10,3 +10,12 @@ a:hover, a:focus {
   color:#4682b4;
   font-weight: bold;
 }
+
+/* hide the theme's "View My GitHub Profile" sidebar link */
+header p.view { display: none; }
+
+/* schedule tables: quieter header row, hairline rows, no zebra */
+table { width: 100%; border-collapse: collapse; }
+th { text-align: left; font-weight: 600; border-bottom: 1px solid #d8d8d8; padding: 8px 6px; }
+td { border-bottom: 1px solid #ececec; padding: 8px 6px; vertical-align: top; }
+tr:nth-child(even) td { background: transparent; }
