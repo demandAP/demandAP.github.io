@@ -12,5 +12,5 @@ This is a working group to explore research in which quantities are an important
 - [Fall 2024](2024F.md)
 
 ## Organizers
-- [Aditya Chaudhry](https://www.adityachaudhry.com) (Ohio State)
+- [Aditya Chaudhry](https://chaudhryaditya.github.io/) (Ohio State)
 - [Simon Oh](https://sangmino.github.io) (Columbia)
