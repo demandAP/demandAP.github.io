@@ -1,16 +1,21 @@
-This is a working group to explore research in which quantities are an important object either empirically or theoretically.
+---
+---
 
-## Schedule and Logistics
-- Meeting time: Thursdays, 4:00pm ET (Fall 2026)
-- Format: 1 hour, seminar style; no questions in the first 5 minutes
-- Detailed Schedule: [Fall 2026](2026F.md)
+This is a working group for research in which **quantities** are the object of interest, either empirically or theoretically. We meet on **Thursdays, 4:00 to 5:00pm New York time**, over Zoom.
 
-## Past Sessions
-- [Spring 2026](2026S.md)
-- [Fall 2025](2025F.md)
-- [Spring 2025](2025S.md)
-- [Fall 2024](2024F.md)
+Sessions run one hour, seminar style. By convention there are **no questions in the first five minutes**.
 
 ## Organizers
-- [Aditya Chaudhry](https://chaudhryaditya.github.io/) (Ohio State)
-- [Simon Oh](https://sangmino.github.io) (Columbia)
+
+**[Aditya Chaudhry](https://chaudhryaditya.github.io/)** *Ohio State*
+<br>**[Simon Oh](https://sangmino.github.io)** *Columbia*
+
+## This term
+
+- *22 October* &nbsp;**Kristy Jansen** *USC Marshall, on* Dissecting Treasury Market Resilience
+- *5 November* &nbsp;**Taisiya Sikorskaya** *Chicago Booth*
+- *19 November* &nbsp;**Federico Mainardi** *Columbia*
+- *3 December* &nbsp;**Byungwook Kim** *UC Irvine*
+- *10 December* &nbsp;**Aditya Chaudhry** *Ohio State*
+
+The [full Fall 2026 schedule](2026F.html) has the Zoom link and paper titles.

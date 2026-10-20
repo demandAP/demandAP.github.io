@@ -1,3 +1,35 @@
-theme: jekyll-theme-minimal
-title: Demand in Asset Markets (DAM)
-description: A working group on research in which quantities matter, empirically or theoretically.
+title: Demand in Asset Markets
+tagline: A working group on quantities in asset markets
+description: A working group for research in which quantities are the object of interest, empirically or theoretically. Organized by Aditya Chaudhry and Simon Oh.
+url: https://demandap.github.io
+
+# Left-hand navigation. Add a term here when a new schedule page goes up;
+# "current: true" marks the term the group is running right now.
+nav:
+  - title: Home
+    url: /
+  - title: Fall 2026
+    url: /2026F.html
+    current: true
+  - title: Spring 2026
+    url: /2026S.html
+  - title: Fall 2025
+    url: /2025F.html
+  - title: Spring 2025
+    url: /2025S.html
+  - title: Fall 2024
+    url: /2024F.html
+
+organizers:
+  - name: Aditya Chaudhry
+    affiliation: Ohio State
+    url: https://chaudhryaditya.github.io/
+  - name: Simon Oh
+    affiliation: Columbia
+    url: https://sangmino.github.io
+
+defaults:
+  - scope: { path: "" }
+    values: { layout: "default" }
+
+exclude: [README.md, Gemfile, Gemfile.lock]
