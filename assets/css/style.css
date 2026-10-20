@@ -30,6 +30,10 @@ body {
 
 a { color: inherit; text-decoration: none; }
 a:hover { text-decoration: underline; }
+
+/* a link in running text is darker than the copy around it. That contrast
+   is the only cue there is, so nothing else may borrow the ink colour. */
+.body a { color: var(--ink); font-weight: 500; }
 a:focus-visible { outline: 2px solid var(--ink); outline-offset: 2px; }
 
 /* ---------- shell ---------- */
@@ -153,8 +157,13 @@ a:focus-visible { outline: 2px solid var(--ink); outline-offset: 2px; }
 /* second column is the speaker: the thing you are scanning for */
 .body td:nth-child(2) { color: var(--ink); font-weight: 600; }
 
-/* an affiliation or a time zone inside a cell steps back out of the bold */
-.body td em { font-weight: 400; color: var(--mute); }
+/* an affiliation or a time zone inside a cell steps back out of the bold and
+   takes its own line, so a long name never wraps through the middle of it */
+.body td em { display: block; font-weight: 400; color: var(--mute); }
+
+/* give the columns room so the speaker column stops breaking mid-affiliation */
+.body td:first-child, .body th:first-child { width: 76px; }
+.body td:nth-child(2), .body th:nth-child(2) { width: 34%; }
 
 .body td:last-child { padding-right: 0; }
 
