@@ -15,7 +15,7 @@ Sessions run one hour, seminar style. By convention there are **no questions in 
 - *22 October* &nbsp;**Kristy Jansen** *USC Marshall, on* Dissecting Treasury Market Resilience
 - *5 November* &nbsp;**Taisiya Sikorskaya** *Chicago Booth*, cancelled
 - *19 November* &nbsp;**Federico Mainardi** *Columbia, on* The Price of Financial Advice
-- *3 December* &nbsp;**Byungwook Kim** *UC Irvine*
+- *3 December* &nbsp;**Taisiya Sikorskaya** *Chicago Booth, on* The Arithmetic of Modern Retail Investor Losses
 - *10 December* &nbsp;**Aditya Chaudhry** *Ohio State*
 
 The [full Fall 2026 schedule](2026F.html) has the Zoom link and paper titles.
